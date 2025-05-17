@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+# RodizioPizza App 📚
+ Meu projeto RodizioPizza agora virou app.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+✔ Working With React Native Components! <br>
+✔ Working With React Native Styles! <br>
+✔ Working With React Native State & Props! <br>
+✔ Working With React Native Hooks! <br>
+✔ Working With React Native Navigation! <br>
+✔ Working With React Native Gesture Handler! <br>
+✔ Working With React Native AsyncStorage! <br>
+✔ Working With React Native Context API! <br>
+✔ Working With React Native Redux! <br>
+✔ Working With React Native Fetch & Axios! <br>
+✔ Working With React Native Animations! <br>
+✔ Working With React Native Permissions! <br>
+✔ Working With React Native Camera & Image Picker! <br>
+✔ Working With React Native Maps! <br>
+✔ Working With React Native Notifications! <br>
+✔ Working With React Native Firebase! <br>
+✔ Working With React Native WebSockets! <br>
+✔ Working With React Native Testing Library! <br>
+✔ Working With React Native Vector Icons! <br>
+✔ Working With React Native Modal & Bottom Sheet! <br>
+✔ Working With React Native Gesture & Reanimated! <br>
+✔ Working With React Native Debugging & Profiling! <br>
+✔ Working With React Native Performance Optimization! <br>
+✔ Working With React Native Build & Deployment! <br>
 
-## Get started
 
-1. Install dependencies
+<div>
 
-   ```bash
-   npm install
-   ```
+  <h1> App </h1>
+  <br/>
 
-2. Start the app
+  <a href="https://github.com/SyLu4N/learn-react-native/tree/main/imhere">
+   <img src="/imhere/demos/imhere_gif.gif" alt="Gif do Projeto" />
+  </a>
+</div>
+<br/>
+<br/>
 
-   ```bash
-    npx expo start
-   ```
+<div>
 
-In the output, you'll find options to open the app in a
+  <h1> Código </h1>
+  <br/>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+  <a href="https://github.com/SyLu4N/learn-react-native/tree/main/imhere">
+   <img src="/imhere/demos/imhere_gif.gif" alt="Gif do Projeto" />
+  </a>
+</div>
+<br/>
+<br/>
