@@ -2,9 +2,6 @@
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
-    "jsx": "react-jsx",
-
-    "baseUrl": ".",
     "paths": {
       "@dtos/*": ["./src/dtos/*"],
       "@assets/*": ["./src/assets/*"],
@@ -15,7 +12,15 @@
       "@services/*": ["./src/services/*"],
       "@hooks/*": ["./src/hooks/*"],
       "@contexts/*": ["./src/contexts/*"],
+      "@styles/*": ["./src/styles/*"],
       "@routes/*": ["./src/routes/*"]
     }
-  }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts",
+    "nativewind-env.d.ts"
+  ]
 }
