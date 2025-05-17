@@ -50,3 +50,19 @@
 </div>
 <br/>
 <br/>
+
+<div>
+
+  <h1> Download do App. </h1>
+  <br/>
+
+  <a href="https://github.com/SyLu4N/rodiziopizza-app/releases/download/av1.0.0/rodizioPizza.apk">
+   Versão 1.0.0 Android
+  </a>
+  <br/>
+  <a href="https://github.com/SyLu4N/rodiziopizza-app/releases/download/av1.0.0/rodizioPizza.apk">
+   Versão 1.0.0 IOS
+  </a>
+</div>
+<br/>
+<br/>
