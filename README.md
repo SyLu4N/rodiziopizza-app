@@ -32,9 +32,7 @@
   <h1> App </h1>
   <br/>
 
-  <a href="https://github.com/SyLu4N/learn-react-native/tree/main/imhere">
-   <img src="/imhere/demos/imhere_gif.gif" alt="Gif do Projeto" />
-  </a>
+  <img src="./review/app.gif" alt="Gif do Projeto" />
 </div>
 <br/>
 <br/>
@@ -44,9 +42,7 @@
   <h1> Código </h1>
   <br/>
 
-  <a href="https://github.com/SyLu4N/learn-react-native/tree/main/imhere">
-   <img src="/imhere/demos/imhere_gif.gif" alt="Gif do Projeto" />
-  </a>
+  <img src="./review/code.gif" alt="Gif do Código" />
 </div>
 <br/>
 <br/>
@@ -59,10 +55,12 @@
   <a href="https://github.com/SyLu4N/rodiziopizza-app/releases/download/av1.0.0/rodizioPizza.apk">
    Versão 1.0.0 Android
   </a>
+
   <br/>
-  <a href="https://github.com/SyLu4N/rodiziopizza-app/releases/download/av1.0.0/rodizioPizza.apk">
+
+  <!-- <a href="https://github.com/SyLu4N/rodiziopizza-app/releases/download/av1.0.0/rodizioPizza.apk">
    Versão 1.0.0 IOS
-  </a>
+  </a> -->
 </div>
 <br/>
 <br/>
